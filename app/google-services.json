@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "950993398032",
+    "firebase_url": "https://sust-db.firebaseio.com",
+    "project_id": "sust-db",
+    "storage_bucket": "sust-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950993398032:android:9a3e5f0c10149508039d95",
+        "android_client_info": {
+          "package_name": "com.oneapp.whatsappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950993398032-e0iimsoope1569snolobfcupe42ek1so.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oneapp.whatsappclone",
+            "certificate_hash": "e1a0f606f9fc5cea2630fe0c839fc415dbccb124"
+          }
+        },
+        {
+          "client_id": "950993398032-1494cub7ho5gcfl1t2um501bhrmdkfoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfwKY6ELp9TdMwZnS1QN_G_JdEPb-GaSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950993398032-1494cub7ho5gcfl1t2um501bhrmdkfoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
